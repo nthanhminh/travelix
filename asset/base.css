@@ -1,0 +1,16 @@
+:root{
+    --primaryColor:#fa9e1b;
+    --headerColor:rgb(53, 10, 78);
+    --whiteColor:#fff;
+    --bgSection: linear-gradient(to right, rgb(250, 158, 27), #8d4fff);
+    --bgSection1: linear-gradient(to left, rgb(250, 158, 27), #8d4fff);
+    --onText:#342557;
+    --text:#2d2c2c;
+}
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+@font-face {
+    font-family: "Beyond";
+    src: url(./font/FontsFree-Net-Beyond.ttf) format("truetype");
+}
